@@ -1,0 +1,25 @@
+.col{
+    text-align: center;
+    
+}
+
+.row{
+    align-items: center;
+
+}
+.btn{
+    align-items: center;
+    padding: 20px;
+    font-size: 20px;
+    /*flex:auto;*/
+    margin-top: 5px;
+    border-radius: 2px;
+    box-shadow: 1px;
+}
+input{
+    align-items: center;
+    padding: 19px;
+    font-size: 18px;
+    /*flex:auto;*/
+    margin-top: 5px;
+}
